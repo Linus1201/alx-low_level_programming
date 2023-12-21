@@ -8,7 +8,7 @@
 
 /**
 * main - assigns a random number to variable n
-* code executes and prints positive or negative if less or greater than zero respectively
+* code executes and prints positive or negative
 *Return: Always 0 (success)
 */
 
