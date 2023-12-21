@@ -3,7 +3,15 @@
 #include <time.h>
 /* more headers goes there */
 
+
 /* betty style doc for fuction main goes there */
+
+/**
+* main - assigns a random number to variable n
+* code executes and prints positive or negative if less or greater than zero respectively
+*Return: Always 0 (success)
+*/
+
 int main(void)
 {
 int n;
