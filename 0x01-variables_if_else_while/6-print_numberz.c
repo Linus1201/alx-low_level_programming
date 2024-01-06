@@ -1,0 +1,17 @@
+#include <stdio.h>
+/**
+ * main - print single digits of base 10 starting from 0
+ * followed by a new line
+ * Return: Always 0 (Success)
+ */
+
+int main(void)
+{
+int x = 0;
+for (x = 48; x < 58; x++)
+{
+putchar(x);
+}
+putchar('\n');
+return (0);
+}
