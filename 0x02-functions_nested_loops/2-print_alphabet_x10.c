@@ -2,7 +2,9 @@
 
 /**
  * main - print alphabet in lowercase 10 times
- * description - print lowercase followed by a new line
+ *
+ * description - print_alphabet_x10
+ *
  * Return: void
  */
 
