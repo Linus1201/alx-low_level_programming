@@ -2,7 +2,7 @@
 
 /**
  * main - print alphabet in lowercase 10 times
- * 
+ * description - print lowercase followed by a new line
  * Return: void
  */
 
