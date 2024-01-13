@@ -1,0 +1,25 @@
+#include "main.h"
+
+/**
+ * _isalpha - check for alphabets
+ *
+ * @c: is an ascii character
+ *
+ * Return: 1 if alphabet
+ */
+
+int _isalphabet(int c)
+{
+if (c >= 'a' && c <= 'z')
+{
+return (1);
+}
+if (c >= 'A' && c <= 'Z')
+{
+return (1);
+}
+else
+{
+return (0);
+}
+}
