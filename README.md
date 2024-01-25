@@ -1,1 +1,1 @@
-my C programming readme
+ array readme
